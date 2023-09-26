@@ -1,9 +1,6 @@
 # DATA WORKING 
-
 git clone https://github.com/LUCIFER-7D/RANDOM
 cd RANDOM
 python DIP.PY
-
 #IF YOU DECODE MY TOOLS I FUCK YOU
-
 #THANKS FOR SUPPORT ME 💜💙
